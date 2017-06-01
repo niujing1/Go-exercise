@@ -1,0 +1,1 @@
+Error: 2017/05/23 17:32:47 mylog.go:36: something has failed

@@ -1,0 +1,14 @@
+{
+	"author" : "test",
+	"require" : {
+		"php" : ">=5.6"
+	},
+	"res" : [
+		  {
+		    "res1" : "value1"
+	          },
+	          {
+		    "res2" : "value2"
+		  }
+	] 
+}
